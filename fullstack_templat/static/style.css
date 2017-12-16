@@ -1,0 +1,16 @@
+.page-header {
+  background-image: url(/Users/zhouyan/Desktop/www/fullstack/fullstack_templat/static/dist3407ced85eafc950f7f8fd7f4b4c4cea.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.header-contents {
+  margin: 200px auto;
+}
+.header-contents h1 {
+  font-size: 120px;
+  font-weight: 300;
+}
+.header-contents button {
+  margin-left: 500px;
+}
